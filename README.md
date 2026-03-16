@@ -36,16 +36,16 @@ The store showcases handcrafted products including resin art, jewelry, thread ba
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/Homepage.png)
+![Homepage](Homepage.png)
 
 ### 📦 Product Page
-![Product](screenshots/Producs.png)
+![Product](Producs.png)
 
 ### 🛍️ Collections
-![Collections](screenshots/Feartured Products.png)
+![Collections](Feartured Products.png)
 
 ### 💳 Checkout
-![Checkout](screenshots/Checkout.png)
+![Checkout](Checkout.png)
 
 ---
 
