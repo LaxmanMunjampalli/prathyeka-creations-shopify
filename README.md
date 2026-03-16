@@ -35,7 +35,17 @@ The store showcases handcrafted products including resin art, jewelry, thread ba
 
 ## 📸 Screenshots
 
-> Screenshots will be added soon in the `/screenshots` folder.
+### 🏠 Homepage
+![Homepage](screenshots/Homepage.png)
+
+### 📦 Product Page
+![Product](screenshots/Producs.png)
+
+### 🛍️ Collections
+![Collections](screenshots/Feartured Products.png)
+
+### 💳 Checkout
+![Checkout](screenshots/Checkout.png)
 
 ---
 
